@@ -1,0 +1,20 @@
+{
+  "name": "yc-queue-notifier",
+  "version": "1.0.0",
+  "description": "Simple notifier for Yandex Cloud Message Queue",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SeqviriouM/yc-queue-notifier.git"
+  },
+  "author": "Fedorenkov Roman <suffering123404@yandex.ru>",
+  "main": "lib/index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "lodash": "^4.17.21",
+    "nodemailer": "^6.6.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
