@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git@github.com:SeqviriouM/yc-queue-notifier.git"
   },
-  "author": "Fedorenkov Roman <suffering123404@yandex.ru>",
+  "author": "Fedorenkov Roman <suffering123494@yandex.ru>",
   "main": "lib/index.js",
   "dependencies": {
     "aws-sdk": "^2.987.0",
